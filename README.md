@@ -29,6 +29,7 @@ A simple and efficient URL shortening application built with Node.js, Express, M
    npm init -y
    npm i express mongoose ejs
    npm i shortid
+   npm i -g nodemon
    ```
 
 3. Configure your MongoDB connection in the application
