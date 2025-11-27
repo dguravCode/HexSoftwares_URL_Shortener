@@ -2,6 +2,10 @@
 
 A simple and efficient URL shortening application built with Node.js, Express, MongoDB, and EJS.
 
+##ScreenShot
+<img width="1061" height="651" alt="image" src="https://github.com/user-attachments/assets/b29c8224-a3de-4719-b1e2-e6083fa9a8d5" />
+
+
 ## Features
 
 - Shorten long URLs into compact, shareable links
